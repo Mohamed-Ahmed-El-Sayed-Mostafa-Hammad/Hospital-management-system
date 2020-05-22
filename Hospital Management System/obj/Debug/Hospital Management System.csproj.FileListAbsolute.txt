@@ -1,0 +1,35 @@
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Form1.resources
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.PatientRegistration.resources
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Sections.resources
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Patients.resources
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.PatientINFO.resources
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.PatientCheckOut.resources
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.nurses.resources
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.NurseRegistration.resources
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.nurseInfo.resources
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorRegistration.resources
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Doctors.resources
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.DoctorInfo.resources
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\bin\Debug\XanderUI.dll
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UpdateDoctor.resources
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.CopyComplete
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UpdatePatient.resources
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UpdateNurse.resources
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Rooms.resources
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Rooms_Buildings.resources
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Add_Room.resources
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Add_Building.resources
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Buildings.resources
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Room_Info.resources
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.UpdateRoom.resources
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Building_Info.resources
+C:\Users\dell\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Update_Building.resources
